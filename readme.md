@@ -19,7 +19,7 @@ I approach security by spending more time on **preparation, reconnaissance, and 
 
 I’m comfortable working with Linux and common security tools, and I prefer **methodical analysis over blind scanning**.
 
-> *“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”*  
+> *“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”*
 
 ---
 
@@ -42,8 +42,8 @@ I’m comfortable working with Linux and common security tools, and I prefer **m
 ![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### 🔧 Dev & Utilities
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -63,5 +63,5 @@ I’m comfortable working with Linux and common security tools, and I prefer **m
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/vikas-kumar-n-63a962321/
-- Email: vikaskumarnsk@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-n-63a962321/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumarnsk@gmail.com)
