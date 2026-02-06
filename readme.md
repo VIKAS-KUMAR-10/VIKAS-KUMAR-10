@@ -1,7 +1,5 @@
 <!-- Subtle Dark Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Vikas%20Kumar%20N&fontSize=32&fontColor=e5e7eb&animation=none" />
-</p>
+
 
 <h1 align="center">Vikas Kumar N</h1>
 <h3 align="center">Pentesting · Web Security · Offensive Mindset</h3>
