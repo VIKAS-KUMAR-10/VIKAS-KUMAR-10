@@ -1,7 +1,7 @@
 <!-- Subtle Dark Banner -->
 
 
-<h1 align="center">Vikas Kumar N</h1>
+<h1 align="center">VIKAS KUMAR N</h1>
 <h3 align="center">Pentesting · Web Security · Offensive Mindset</h3>
 
 <!-- Auto Typing Slider -->
