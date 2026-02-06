@@ -53,10 +53,9 @@ I’m comfortable working with Linux and common security tools, and I prefer **m
 
 ---
 
-## GitHub## GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIKAS-KUMAR-10&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-</p>
+## GitHub
+<img src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
+
 
 
 ---
