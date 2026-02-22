@@ -21,7 +21,6 @@ I’m comfortable working with Linux and common security tools, and I prefer **m
 
 ---
 
-## 🏆 Technical Arsenal
 
 ### 🧠 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
